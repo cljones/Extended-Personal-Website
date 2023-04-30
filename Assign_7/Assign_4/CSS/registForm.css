@@ -1,0 +1,29 @@
+form{
+    border: 2px solid #000;
+    padding:11px;
+
+}
+
+input{
+    display: flex;
+    align-items: center;
+    margin-bottom:32px;
+    resize: vertical;
+    max-height: 100px;
+    flex-direction: column;
+    position: relative;
+}
+
+select{
+    display: flex;
+    align-items: center;
+    margin-bottom:32px;
+    resize: vertical;
+    max-height: 100px;
+    flex-direction: column;
+    
+}
+
+label{
+    display: flex;
+}
